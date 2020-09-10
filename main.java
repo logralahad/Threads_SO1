@@ -6,7 +6,7 @@
 
 /**
  *
- * @author macbook
+ * @author logra
  */
 public class main {
         public static void main(String[] args) {
