@@ -1,8 +1,12 @@
 # Threads_SO1
 Enlace al video: https://www.youtube.com/watch?v=-prRfAsVXmY
+
 Equipo:
+
   -Carlos Daniel Valdez Martínez
+  
   -Octavio Agustín Celaya Ojeda
+  
   -Rafael Antonio López García
 
 Entregar el código fuente de un programa en java que realice las siguientes tareas con threads,
